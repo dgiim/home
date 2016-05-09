@@ -1,2 +1,9 @@
 baseurl: /
 title: DGIIM
+keep_files:
+  - assets
+  - awesome
+  - blog
+  - calendar
+  - foro
+  - overflow
